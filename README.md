@@ -8,4 +8,4 @@ The key question explored was to understand whether incentives impacted the grow
 ## Data Analysis
 Analysis was done with Python, using several libraries (e.g, Pandas, Numpy, Matplotlib, Scikit-Learn, SciPy) and included analysis of correlations, geographical analysis, linear regression analysis, cluster analysis and time series analysis. The later used a second dataset retrieved from [Nasdaq Data](https://data.nasdaq.com/data/EIA-us-energy-information-administration-data), which showed trends on NY State fossil energy consumption, and was really used just to practice time series analysis!
 ## Synthesis of Results
-The detailed analysis is uploaded here, but a snapshot of results can also be viewed in this [TABLEAU dashboard](https://public.tableau.com/shared/5FQQHC94M?:display_count=n&:origin=viz_share_link) 
+The detailed analysis is uploaded here, but a snapshot of results can also be viewed in this [TABLEAU dashboard](https://public.tableau.com/views/SolarProjectsNewYorkDashboard/Story1?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link) 
